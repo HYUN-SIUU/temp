@@ -43,7 +43,7 @@
   height: auto;
   min-height: 100vh;
   overflow: hidden;
-  border: 2px solid red;
+  border-top: 2px solid red;
   margin-top: 500px;
 }
 
