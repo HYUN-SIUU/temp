@@ -34,7 +34,7 @@ function Page4() {
             className='button'
             style={{ top: '8.9%', left: '5.5%', color: "white", fontFamily: "Noto Sans KR", fontSize: "80px" }}
         >
-            김민재
+            이규호
         </p>
     </div>
     );

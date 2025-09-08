@@ -29,7 +29,7 @@ function Page3() {
             className='button'
             style={{ top: '22.2%', left: '28.8%', fontFamily: "Noto Sans KR", fontSize: "70px" }}
         >
-            김민재
+            이규호
         </h3>
     </div>
     );
